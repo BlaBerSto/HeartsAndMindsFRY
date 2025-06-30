@@ -33,12 +33,12 @@ ______________________________________________
 
 # 🤔 What is this?
 ### :memo: Introduction
-Hearts and Minds is a cooperative Military Simulation (MilSim) mission that aims to recreate a post war environment based on an insurgency gameplay.
-CSAT forces retreated from Altis and FRY deployed units and vehicles to help the local population.
-A new formed group, known as "KLA", is against the FRY intervention and is ready to fight.
+Hearts and Minds is a cooperative Military Simulation (MilSim) mission that aims to recreate a post war environment based on an insurgency gameplay. It has been heavily modified to fit the following scenario:
+
+Following half a decade of war that broke up Yugoslavia, the FRY now faces separatist rebellion in Kosovo. Our forces have taken lodging inside an abandoned Yugoslav era military airbase as base of operations in this hostile environment environment. A newly formed, and popularly supported militia group, known as the Kosovo Liberation Army (KLA) is increasingly willing to fight. Their goal is to expel the FRY government, the remaining Serbian population, and create the independant state of Kosovo.
 
 ### :white_check_mark: Goal
-Your main task is to defeat the "KLA" group and restore peace and order in Altis.
+Your main task is to defeat the "KLA" group and restore peace and order in Kosovo.
 The militia has an unknown number of hideouts in the island that need to be destroyed.
 They have also ammo caches in various locations, destroy them to weaken its power.
 
