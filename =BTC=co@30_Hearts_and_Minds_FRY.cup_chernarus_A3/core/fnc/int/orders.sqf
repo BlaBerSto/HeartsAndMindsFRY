@@ -77,7 +77,7 @@ if (isNull _unit) then {
                     [_unit]
                 ];
             } else {
-                if !(player getVariable ["interpreter", false]) exitWith {
+                if ((random 1) < 0.15) exitWith {
                     [name _unit, localize "STR_BTC_HAM_CON_INFO_ASKREP_NOINTER"] call btc_fnc_showSubtitle;
                 };
 
