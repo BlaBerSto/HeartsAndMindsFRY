@@ -48,8 +48,8 @@ Infact there's a reputation system: helping the local population, fighting the "
 At the beginning you have a very low reputation level, so civilians won't help you revealing important information about KLA, they will likely lie instead.
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/14364400/28997116-bfcec8a6-7a0d-11e7-911f-b52edb841ae3.png" width="400">
-    <img src="https://user-images.githubusercontent.com/14364400/29193966-d8306378-7e27-11e7-97cb-df76dfc08e53.png" width="400">
+    <img src="https://i.imgur.com/0B1wDyi.jpeg" width="400">
+    <img src="https://i.imgur.com/vEIvHy6.jpeg" width="400">
 </p>
 
 # :sparkles: Features:
@@ -91,6 +91,7 @@ At the beginning you have a very low reputation level, so civilians won't help y
 - Something I forgot for sure
 
 # :clap: Credits:
+- [Stoasha from Black Berets](https://black-berets.com/) - this fork
 - =BTC= clan
 - [Contributors](https://github.com/Vdauphin/HeartsAndMinds/graphs/contributors)
 
