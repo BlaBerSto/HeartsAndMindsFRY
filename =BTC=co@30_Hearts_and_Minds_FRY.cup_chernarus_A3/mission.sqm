@@ -2718,6 +2718,7 @@ class Mission
 					flags=4;
 					class Attributes
 					{
+						name="vj95_heli";
 					};
 					id=565;
 					type="VJ95_ht48";

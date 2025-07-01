@@ -66,3 +66,5 @@ if (
     };
     [btc_player_side, _tickets] call BIS_fnc_respawnTickets;
 };
+
+[nil,vj95_heli] call btc_civ_fnc_add_leaflets;

@@ -49,7 +49,7 @@ if !(isServer) then { // Don't add twice the event in player host
         _this remoteExecCall ["btc_rep_fnc_wheelChange", 2];
     }] call CBA_fnc_addEventHandler;
 };
-_player addEventHandler ["WeaponAssembled", btc_civ_fnc_add_leaflets];
+// _player addEventHandler ["WeaponAssembled", btc_civ_fnc_add_leaflets];
 [_player, "WeaponAssembled", {[_thisType, _this] call btc_fob_fnc_rallypointAssemble;}] call CBA_fnc_addBISEventHandler;
 [_player, "WeaponDisassembled", {[_thisType, _this] call btc_fob_fnc_rallypointAssemble;}] call CBA_fnc_addBISEventHandler;
 _player addEventHandler ["GetInMan", btc_ied_fnc_deleteLoop];
