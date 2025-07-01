@@ -35,7 +35,7 @@ ______________________________________________
 ### :memo: Introduction
 Hearts and Minds is a cooperative Military Simulation (MilSim) mission that aims to recreate a post war environment based on an insurgency gameplay. It has been heavily modified to fit the following scenario:
 
-Following half a decade of war that broke up Yugoslavia, the FRY now faces separatist rebellion in Kosovo. Our forces have taken lodging inside an abandoned Yugoslav era military airbase as base of operations in this hostile environment environment. A newly formed, and popularly supported militia group, known as the Kosovo Liberation Army (KLA) is increasingly willing to fight. Their goal is to expel the FRY government, the remaining Serbian population, and create the independant state of Kosovo.
+Following half a decade of war that broke up Yugoslavia, the FRY now faces separatist rebellion in Kosovo. Our forces have taken lodging inside an abandoned Yugoslav era military airbase as base of operations in this hostile environment environment. A newly formed, and popularly supported militia group, known as the Kosovo Liberation Army (KLA) is increasingly willing to fight. Their goal is to expel the FRY government and create the independant state of Kosovo, and they are a threat to the Serb minority population.
 
 ### :white_check_mark: Goal
 Your main task is to defeat the "KLA" group and restore peace and order in Kosovo.
