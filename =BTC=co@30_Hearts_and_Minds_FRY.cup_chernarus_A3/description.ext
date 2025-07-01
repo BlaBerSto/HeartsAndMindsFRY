@@ -10,6 +10,15 @@ enabledebugconsole = 1;
 #include "core\fnc\log\dlg.hpp"
 #include "core\fnc\debug\defines.hpp"
 
+class CfgLeaflets
+{
+	class West // configuration for 1Rnd_Leaflets_West_F
+	{
+		text = "WARNING!<br/>Civilians, IT IS NOT SAFE FOR YOU HERE!<br/>Military operations put you in DANGER: EVACUATE AND AVOID areas occupied by ARMED FORCES<br/>This area will be subject to military operations, leave immediately";	// text shown when previewing the leaflet full-screen. Should ideally be localised, so even player who cannot read the image can get the information
+		texture = "leaflet.paa";	// leaflet texture shown when previewing the leaflet full-screen
+	};
+};
+
 class RscTitles {
     class Default {
         idd = -1;
